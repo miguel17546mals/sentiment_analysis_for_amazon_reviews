@@ -63,8 +63,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-# Agradecimientos
+## Agradecimientos
 Agradecimientos especiales a nuestro compañero y amigo VizGamer97 por prestarnos poder de computo para realizar el web scrapping de las reseñas de Amazon. Muchas Gracias Chemte.
+https://github.com/Vicente97
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
